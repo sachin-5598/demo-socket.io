@@ -9,5 +9,10 @@ Build a web page where each user can see each others mouse pointer
   * [x] Update index.js to use http.Server
   * [x] Create sockets.js
     * [x] Listen for socket connections
-      * [] emit message 'hello world'
+      * [x] Update cors in socket
   * [x] init sockets in index.js
+  * [x] Store all connected clients at server
+* [x] Setup Client
+  * [x] Install parcel-bundler
+  * [x] Install socket.io-client
+  * [x] Update and display other users when someone connects or disconnects
